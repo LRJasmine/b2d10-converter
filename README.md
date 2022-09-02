@@ -1,4 +1,4 @@
-![Preview of B2D10 Converter](/src/CaptureB2D10Converter.png "Preview of B2D10 Converter")
+![Preview of B2D10 Converter](/src/CaptureB2D10Converter.PNG "Preview of B2D10 Converter")
 
 In the project directory, you can run:
 
